@@ -1,4 +1,4 @@
-A couple simple spiders to capture product attriubutes as json.
+A couple simple spiders to capture product attributes as json.
 --
 Install:
 ```bash
